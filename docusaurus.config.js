@@ -92,7 +92,7 @@ const config = {
               },
               {
                 label: 'Pathfinder (Local)',
-                to: 'https://192.168.1.223/game',
+                to: 'https://192.168.1.240/game',
               },
               {
                 label: 'GitHub',
