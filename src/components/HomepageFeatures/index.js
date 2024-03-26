@@ -3,33 +3,7 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
  
 const FeatureList = [
- {
-    title: 'Hello',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Welcome
-      </>
-    ),
-  },
-  {
-    title: 'Hello',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Welcome
-      </>
-    ),
-  },
-  {
-    title: 'Hello',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Welcome
-      </>
-    ),
-  },
+
 ];
 
 function Feature({Svg, title, description}) {
