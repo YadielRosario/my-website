@@ -65,18 +65,7 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'projectsSidebar',
-            position: 'left',
-            label: 'Projects',
-          },
-          {to: '/blog', label: 'About', position: 'left'},
-          {
-            href: 'https://github.com/yadielrosario',
-            label: 'GitHub',
-            position: 'right',
-          },
+         
         ],
       },
       footer: {
